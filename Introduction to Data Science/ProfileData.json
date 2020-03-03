@@ -1,0 +1,36 @@
+{
+  "Name": "vipin dangi",
+  "JobRoles": [
+    "Analyst"
+  ],
+  "BusinessTypes": [
+    "Student"
+  ],
+  "IsOptedInToEmails": true,
+  "CourseProgress": [
+    {
+      "CourseName": "Google Analytics for Beginners",
+      "StartDate": 20200122,
+      "CourseCompleted": true,
+      "CertificateDate": 20200207,
+      "AssessmentsProgress": [
+        {
+          "Title": "Assessment 1",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 2",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 3",
+          "Passed": true
+        },
+        {
+          "Title": "Assessment 4",
+          "Passed": true
+        }
+      ]
+    }
+  ]
+}
